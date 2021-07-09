@@ -1,4 +1,4 @@
-This repo is for stupid shit endeavors with @OlaRonning.
+This repo is for stupid shit endeavors with [@OlaRonning](https://github.com/OlaRonning).
 
 Sometimes this stupid shit requires submodules (useful for PLFA):
 
