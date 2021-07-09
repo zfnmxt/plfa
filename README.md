@@ -1,3 +1,7 @@
+This repo is for stupid shit endeavors with @OlaRonning.
+
+Sometimes this stupid shit requires submodules (useful for PLFA):
+
 # Cloning
 ```
 git clone --recurse-submodules git@github.com:zfnmxt/plfa_with_ola.git
